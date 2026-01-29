@@ -9,6 +9,9 @@ using a Hospital dataset.
 - queries.sql – SQL queries for analysis
 - Hospital_Data.csv – Dataset used in the project
 
+## CSV file is stored inside the `data/` folder.
+
+
 ## Database
 PostgreSQL
 
